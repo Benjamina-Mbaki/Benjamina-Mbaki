@@ -94,9 +94,9 @@ Hi 👋 I'm Benjamina Mbaki
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Benjamina-Mbaki&show_icons=true&theme=midnight-purple"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Benjamina-Mbaki&show_icons=true&theme=midnight-purple"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamina-Mbaki&layout=compact&theme=midnight-purple"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Benjamina-Mbaki&layout=compact&theme=midnight-purple"/>
 
 </p>
 
