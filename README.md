@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Benjamina-Mbaki/Benjamina-Mbaki/blob/main/WhatsApp%20Image%202026-07-27%20at%2019.33.44.jpeg?raw=true" alt="Benjamina Banner" width="100%">
-</p>
-
 <h1 align="center">
 Hi 👋 I'm Benjamina Mbaki
 </h1>
