@@ -68,7 +68,4 @@ More projects coming soon!
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Benjamina-Mbaki&theme=tokyonight&hide_border=true)
----
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Benjamina-Mbaki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
