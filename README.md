@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=500&lines=Benjamina+Mbaki" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=200&section=header&text=Benjamina%20Mbaki&fontSize=50&fontColor=FFFFFF&fontAlignY=35&fontFamily=Pacifico" />
 </p>
 
 <p align="center">
