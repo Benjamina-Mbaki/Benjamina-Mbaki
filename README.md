@@ -55,7 +55,6 @@ Hi 👋 I'm Benjamina Mbaki
 
 </p>
 
-💬 **Discord:** `benjamina_08309`
 
 ---
 
