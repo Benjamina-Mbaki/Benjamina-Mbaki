@@ -82,7 +82,7 @@
 ![HTML](https://img.shields.io/badge/Web%20Development-C8A2C8?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </div>
----
+
 
 # 🚀 Current Projects
 
