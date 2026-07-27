@@ -61,9 +61,9 @@ More projects coming soon!
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamina-Mbaki&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=Benjamina-Mbaki&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamina-Mbaki&layout=compact&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Benjamina-Mbaki&layout=compact&theme=tokyonight)
 ---
 ## 🔥 GitHub Streak
 
@@ -72,4 +72,3 @@ More projects coming soon!
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Benjamina-Mbaki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
