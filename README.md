@@ -2,9 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C8A2FF&center=true&vCenter=true&width=700&lines=Hi%20%F0%9F%91%8B%20I%27m%20Benjamina%20Mbaki;IT%20Systems%20Development%20Student;Aspiring%20Software%20Engineer;Future%20Full-Stack%20Developer;Welcome%20to%20my%20GitHub%21%20%F0%9F%92%9C" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C8A2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;IT+Systems+Development+Student;Learning+Java+%7C+JavaScript+%7C+SQL;Building+projects+every+day;Future+Software+Engineer+💜" />
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Benjamina-Mbaki&style=for-the-badge&color=blueviolet" />
