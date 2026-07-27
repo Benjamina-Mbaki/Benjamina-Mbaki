@@ -48,7 +48,6 @@
 
 </p>
 
-
 ---
 
 # 💻 Tech Stack
@@ -60,8 +59,6 @@
 </p>
 
 ---
-
-## 🛠️ Tools and Technologies
 
 <div align="center">
 
