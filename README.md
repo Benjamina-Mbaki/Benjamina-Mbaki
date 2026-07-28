@@ -29,7 +29,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/benjamina-mbaki-9ba046356/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin"
+       height="45" style="filter:hue-rotate(250deg) saturate(1.5);" />
   </a>
 
   <a href="https://www.instagram.com/_benjamina_m">
