@@ -123,7 +123,7 @@ More projects coming soon!
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Benjamina-Mbaki&theme=midnight-purple&hide_border=true"/>
+![](https://streak-stats.demolab.com/?user=Benjamina-Mbaki&theme=radical&hide_border=false)
 
 </p>
 
