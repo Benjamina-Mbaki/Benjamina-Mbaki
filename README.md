@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=500&lines=Benjamina+Mbaki" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com font=Pacifico&size=40&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&width=500&lines=Benjamina+Mbaki" /></p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C8A2FF&center=true&vCenter=true&width=700&lines=Hi%20%F0%9F%91%8B%20I%27m%20Benjamina%20Mbaki;IT%20Systems%20Development%20Student;Aspiring%20Software%20Engineer;Future%20Full-Stack%20Developer;Welcome%20to%20my%20GitHub%21%20%F0%9F%92%9C" />
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Benjamina-Mbaki&style=for-the-badge&color=blueviolet" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C8A2FF&center=true&vCenter=true&width=700&lines=Hi%20%F0%9F%91%8B%20I%27m%20Benjamina%20Mbaki;IT%20Systems%20Development%20Student;Aspiring%20Software%20Engineer;Future%20Full-Stack%20Developer;Welcome%20to%20my%20GitHub%21%20%F0%9F%92%9C" /></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Benjamina-Mbaki&style=for-the-badge&color=blueviolet" /></p>
 
 # 💜 About Me
 
@@ -34,8 +29,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/benjamina-mbaki-9ba046356/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/benjamina-mbaki-9ba046356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/_benjamina_m">
@@ -122,9 +116,7 @@ More projects coming soon!
 # 🔥 GitHub Streak
 
 <p align="center">
-
-![GitHub Sreak](https://streak-stats.demolab.com/?user=Benjamina-Mbaki&theme=tokyonight)
-
+  <img src="https://streak-stats.demolab.com?user=Benjamina-Mbaki&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
