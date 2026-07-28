@@ -123,7 +123,7 @@ More projects coming soon!
 
 <p align="center">
 
-![](https://streak-stats.demolab.com/?user=Benjamina-Mbaki&theme=radical&hide_border=false)
+![GitHub Sreak](https://streak-stats.demolab.com/?user=Benjamina-Mbaki&theme=radical&hide)
 
 </p>
 
