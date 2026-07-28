@@ -126,9 +126,9 @@ More projects coming soon!
 
 # 🌱 Goals for 2026
 
-✅ Master Java
+✅ Learning Java and JavaScript 
 
-✅ Learn JavaScript
+✅ Learning Python 
 
 ⬜ Build my Portfolio Website
 
