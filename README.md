@@ -28,18 +28,17 @@
 # 🌸 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/benjamina-mbaki-9ba046356/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/benjamina-mbaki-9ba046356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.instagram.com/_benjamina_m">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+  </a>
 
-<a href="https://www.instagram.com/_benjamina_m">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://www.tiktok.com/@benjamina_m">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
-
+  <a href="https://www.tiktok.com/@benjamina_m">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png"/>
+  </a>
 </p>
 
 ---
