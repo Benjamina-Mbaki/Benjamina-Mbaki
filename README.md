@@ -30,14 +30,18 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/benjamina-mbaki-9ba046356/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
+  </a><br>
 
   <a href="https://www.instagram.com/_benjamina_m">
     <img src="https://cdn.simpleicons.org/instagram/C8A2C8" height="45" />
-  </a>
+  </a><br>
 
   <a href="https://www.tiktok.com/@benjamina_m">
     <img src="https://cdn.simpleicons.org/tiktok/C8A2C8" height="45" />
+  </a><br>
+
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://cdn.simpleicons.org/discord/C8A2C8" height="45" />
   </a>
 </p>
 
