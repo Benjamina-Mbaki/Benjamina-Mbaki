@@ -111,7 +111,7 @@ More projects coming soon!
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Benjamina-Mbaki&show_icons=true&theme=midnight-purple"/>
 
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Benjamina-Mbaki&layout=compact&theme=midnight-purple"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamina-Mbaki&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
