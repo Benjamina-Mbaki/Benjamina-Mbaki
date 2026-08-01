@@ -129,9 +129,9 @@ More projects coming soon!
 
 ✅ Learning Python 
 
-⬜ Build my Portfolio Website
+✅ Create 10 GitHub Projects
 
-⬜ Create 10 GitHub Projects
+⬜ Build my Portfolio Website
 
 ⬜ Learn React
 
