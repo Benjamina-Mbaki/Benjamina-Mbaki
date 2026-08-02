@@ -118,7 +118,7 @@ More projects coming soon!
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Benjamina-Mbaki&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Benjamina-Mbaki&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
