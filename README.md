@@ -109,6 +109,7 @@
 ### 🗄️ Database
 
 - [TechStore SQL Database](https://github.com/Benjamina-Mbaki/TechStore-SQL-Database)
+- [NovaBank System](https://github.com/securebankproject2025-dev/NovaBank-System)
 
 ### 💻 Other Languages
 
