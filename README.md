@@ -83,13 +83,38 @@
 
 # 🚀 Current Projects
 
-🌐 Personal Portfolio Website *(Coming Soon)*
+### 🌐 Websites
 
-☕ Java Applications *(Coming Soon)*
+- [Personal Portfolio](https://benjamina-mbaki.github.io/My-Portfolio/): responsive portfolio (HTML, CSS, JavaScript)
+- [The Daily Grind](https://benjamina-mbaki.github.io/The-Daily-Grind/)
+- [Benjamina](https://benjamina-mbaki.github.io/Benjamina/)
 
-🗄️ Database Projects *(Coming Soon)*
+### ☕ Java
 
-💻 Web Development Projects *(Coming Soon)*
+- [Data Validation System](https://github.com/Benjamina-Mbaki/Data-Validation-System): Java Swing input validation app
+- [Java Lottery Game](https://github.com/Benjamina-Mbaki/Java-Lottery-Game)
+- [Java Weekly Planner](https://github.com/Benjamina-Mbaki/Java-Weekly-Planner)
+- [Java Rectangle Area Calculator](https://github.com/Benjamina-Mbaki/Java-Rectangle-Area-Calculator)
+- [Rock Paper Scissors](https://github.com/Benjamina-Mbaki/RockPaperScissors)
+- [NovaBank System](https://github.com/securebankproject2025-dev/NovaBank-System)
+
+### 🐍 Python
+
+- [My First Python Calculator](https://github.com/Benjamina-Mbaki/My-First-Python-Calculator)
+- [Simple Python Calculator](https://github.com/Benjamina-Mbaki/Simple-Python-Calculator)
+- [Student Grade Calculator](https://github.com/Benjamina-Mbaki/Student-Grade-Calculator)
+- [Number Guessing Game](https://github.com/Benjamina-Mbaki/Number-Guessing-Game)
+- [My First Python Program](https://github.com/Benjamina-Mbaki/My-First-Python-Program)
+
+### 🗄️ Database
+
+- [TechStore SQL Database](https://github.com/Benjamina-Mbaki/TechStore-SQL-Database)
+
+### 💻 Other Languages
+
+- [C Lottery Game](https://github.com/Benjamina-Mbaki/C-Lottery-Game)
+- [Banking System](https://github.com/Benjamina-Mbaki/Banking-System)
+- [My First TypeScript Program](https://github.com/Benjamina-Mbaki/My-First-TypeScript-Program)
 
 More projects coming soon!
 ---
