@@ -114,15 +114,15 @@ Welcome to my project portfolio! I'm continuously building, learning, and improv
 | 6 | 📅 Java Weekly Planner | Java | Java | [View Repository](https://github.com/Benjamina-Mbaki/Java-Weekly-Planner) |
 | 7 | 📐 Rectangle Area Calculator | Java | Java | [View Repository](https://github.com/Benjamina-Mbaki/Java-Rectangle-Area-Calculator) |
 | 8 | ✊ Rock Paper Scissors | Java | Java | [View Repository](https://github.com/Benjamina-Mbaki/RockPaperScissors) |
-| 9 | 🏦 NovaBank System | Banking | Java / SQL* | [View Repository](https://github.com/securebankproject2025-dev/NovaBank-System) |
+| 9 | 🏦 NovaBank System | Banking | Java / SQL | [View Repository](https://github.com/securebankproject2025-dev/NovaBank-System) |
 | 10 | 🧮 My First Python Calculator | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/My-First-Python-Calculator) |
 | 11 | ➗ Simple Python Calculator | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/Simple-Python-Calculator) |
 | 12 | 🎓 Student Grade Calculator | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/Student-Grade-Calculator) |
 | 13 | 🔢 Number Guessing Game | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/Number-Guessing-Game) |
 | 14 | 🐍 My First Python Program | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/My-First-Python-Program) |
 | 15 | 🛍️ TechStore SQL Database | Database | SQL | [View Repository](https://github.com/Benjamina-Mbaki/TechStore-SQL-Database) |
-| 16 | 🎰 C Lottery Game | C / C++ | C | [View Repository](https://github.com/Benjamina-Mbaki/C-Lottery-Game) |
-| 17 | 🏦 Banking System | Programming | C++* | [View Repository](https://github.com/Benjamina-Mbaki/Banking-System) |
+| 16 | 🎰 C Lottery Game | C++ | C++ | [View Repository](https://github.com/Benjamina-Mbaki/C-Lottery-Game) |
+| 17 | 🏦 Banking System | Programming | C++ | [View Repository](https://github.com/Benjamina-Mbaki/Banking-System) |
 | 18 | 🔷 My First TypeScript Program | TypeScript | TypeScript | [View Repository](https://github.com/Benjamina-Mbaki/My-First-TypeScript-Program) |
 
 \* *Technology labels marked with an asterisk should be confirmed against the repository source code before publishing.*
