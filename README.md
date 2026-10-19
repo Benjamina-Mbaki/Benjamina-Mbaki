@@ -98,51 +98,53 @@
 
 </div>
 
-#🚀 Current Projects
+# 💜 🚀 Current Projects
 
 Welcome to my project portfolio! I'm continuously building, learning, and improving my skills in software development, web development, and database management.
 
-✨ Project Portfolio
+## ✨ Project Portfolio
 
-#| Project| Category| Technologies| Link
-1| 🌐 Personal Portfolio| Web Development| HTML, CSS, JavaScript| "View Project" (https://benjamina-mbaki.github.io/My-Portfolio/)
-2| ☕ The Daily Grind| Web Development| HTML, CSS, JavaScript| "View Project" (https://benjamina-mbaki.github.io/The-Daily-Grind/)
-3| 💜 Benjamina Website| Web Development| Web Technologies| "View Project" (https://benjamina-mbaki.github.io/Benjamina/)
-4| 🛡️ Data Validation System| Java| Java, Swing| "View Repository" (https://github.com/Benjamina-Mbaki/Data-Validation-System)
-5| 🎰 Java Lottery Game| Java| Java| "View Repository" (https://github.com/Benjamina-Mbaki/Java-Lottery-Game)
-6| 📅 Java Weekly Planner| Java| Java| "View Repository" (https://github.com/Benjamina-Mbaki/Java-Weekly-Planner)
-7| 📐 Rectangle Area Calculator| Java| Java| "View Repository" (https://github.com/Benjamina-Mbaki/Java-Rectangle-Area-Calculator)
-8| ✊ Rock Paper Scissors| Java| Java| "View Repository" (https://github.com/Benjamina-Mbaki/RockPaperScissors)
-9| 🏦 NovaBank System| Banking| Java / SQL*| "View Repository" (https://github.com/securebankproject2025-dev/NovaBank-System)
-10| 🧮 My First Python Calculator| Python| Python| "View Repository" (https://github.com/Benjamina-Mbaki/My-First-Python-Calculator)
-11| ➗ Simple Python Calculator| Python| Python| "View Repository" (https://github.com/Benjamina-Mbaki/Simple-Python-Calculator)
-12| 🎓 Student Grade Calculator| Python| Python| "View Repository" (https://github.com/Benjamina-Mbaki/Student-Grade-Calculator)
-13| 🔢 Number Guessing Game| Python| Python| "View Repository" (https://github.com/Benjamina-Mbaki/Number-Guessing-Game)
-14| 🐍 My First Python Program| Python| Python| "View Repository" (https://github.com/Benjamina-Mbaki/My-First-Python-Program)
-15| 🛍️ TechStore SQL Database| Database| SQL| "View Repository" (https://github.com/Benjamina-Mbaki/TechStore-SQL-Database)
-16| 🎰 C Lottery Game| C / C++| C| "View Repository" (https://github.com/Benjamina-Mbaki/C-Lottery-Game)
-17| 🏦 Banking System| Programming| C++*| "View Repository" (https://github.com/Benjamina-Mbaki/Banking-System)
-18| 🔷 My First TypeScript Program| TypeScript| TypeScript| "View Repository" (https://github.com/Benjamina-Mbaki/My-First-TypeScript-Program)
+| # | Project | Category | Technologies | Link |
+|---|---------|----------|--------------|------|
+| 1 | 🌐 Personal Portfolio | Web Development | HTML, CSS, JavaScript | [View Project](https://benjamina-mbaki.github.io/My-Portfolio/) |
+| 2 | ☕ The Daily Grind | Web Development | HTML, CSS, JavaScript | [View Project](https://benjamina-mbaki.github.io/The-Daily-Grind/) |
+| 3 | 💜 Benjamina Website | Web Development | Web Technologies | [View Project](https://benjamina-mbaki.github.io/Benjamina/) |
+| 4 | 🛡️ Data Validation System | Java | Java, Swing | [View Repository](https://github.com/Benjamina-Mbaki/Data-Validation-System) |
+| 5 | 🎰 Java Lottery Game | Java | Java | [View Repository](https://github.com/Benjamina-Mbaki/Java-Lottery-Game) |
+| 6 | 📅 Java Weekly Planner | Java | Java | [View Repository](https://github.com/Benjamina-Mbaki/Java-Weekly-Planner) |
+| 7 | 📐 Rectangle Area Calculator | Java | Java | [View Repository](https://github.com/Benjamina-Mbaki/Java-Rectangle-Area-Calculator) |
+| 8 | ✊ Rock Paper Scissors | Java | Java | [View Repository](https://github.com/Benjamina-Mbaki/RockPaperScissors) |
+| 9 | 🏦 NovaBank System | Banking | Java / SQL* | [View Repository](https://github.com/securebankproject2025-dev/NovaBank-System) |
+| 10 | 🧮 My First Python Calculator | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/My-First-Python-Calculator) |
+| 11 | ➗ Simple Python Calculator | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/Simple-Python-Calculator) |
+| 12 | 🎓 Student Grade Calculator | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/Student-Grade-Calculator) |
+| 13 | 🔢 Number Guessing Game | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/Number-Guessing-Game) |
+| 14 | 🐍 My First Python Program | Python | Python | [View Repository](https://github.com/Benjamina-Mbaki/My-First-Python-Program) |
+| 15 | 🛍️ TechStore SQL Database | Database | SQL | [View Repository](https://github.com/Benjamina-Mbaki/TechStore-SQL-Database) |
+| 16 | 🎰 C Lottery Game | C / C++ | C | [View Repository](https://github.com/Benjamina-Mbaki/C-Lottery-Game) |
+| 17 | 🏦 Banking System | Programming | C++* | [View Repository](https://github.com/Benjamina-Mbaki/Banking-System) |
+| 18 | 🔷 My First TypeScript Program | TypeScript | TypeScript | [View Repository](https://github.com/Benjamina-Mbaki/My-First-TypeScript-Program) |
 
----
-
-🛠️ Technologies I'm Exploring
-
-Area| Technologies
-🎨 Frontend| HTML5, CSS3, JavaScript, React
-⚙️ Backend| Java, Spring Boot, Node.js
-🗄️ Databases| SQL, MySQL
-🐍 Programming| Python, Java, C++, TypeScript
+\* *Technology labels marked with an asterisk should be confirmed against the repository source code before publishing.*
 
 ---
 
-🌱 What's Next?
+## 🛠️ Technologies I'm Exploring
+
+| Area | Technologies |
+|------|--------------|
+| 🎨 Frontend | HTML5, CSS3, JavaScript, React |
+| ⚙️ Backend | Java, Spring Boot, Node.js |
+| 🗄️ Databases | SQL, MySQL |
+| 🐍 Programming | Python, Java, C++, TypeScript |
+
+---
+
+## 🌱 What's Next?
 
 I'm continuing to build practical projects, strengthen my programming fundamentals, and explore full-stack development.
 
 💜 More projects coming soon! 🚀
-
-Technology labels marked with an asterisk should be confirmed against the repository source code before publishing.
 
 ---
 
