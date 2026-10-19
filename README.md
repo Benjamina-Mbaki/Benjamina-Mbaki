@@ -99,6 +99,7 @@
 # 💜 🚀 Current Projects
 
 Welcome to my project portfolio! I'm continuously building, learning, and improving my skills in software development, web development, and database management.
+My First 20 projects:
 
 ## ✨ Project Portfolio
 
