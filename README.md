@@ -161,13 +161,13 @@ More projects coming soon!
 
 ✅ Create 10 GitHub Projects
 
-⬜ Build my Portfolio Website
+✅ Build my Portfolio Website
 
-⬜ Learn React
+✅ Learn React
 
-⬜ Learn Spring Boot
+✅ Learn Spring Boot
 
-⬜ Become a Full-Stack Developer
+✅ Become a Full-Stack Developer
 
 ---
 
